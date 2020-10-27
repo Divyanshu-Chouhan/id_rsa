@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 The snow glows white on the mountain tonight.
 
 First commit in feature.
 Second Commit in feature.
 3rd Commit 
+=======
+The snow glows on the mountain tonight.
+Not a footprint to be seen
+New Line
+>>>>>>> f0d6ebabe4ff66ac9ae324a6639e7a7157e58b8d
+Final version
