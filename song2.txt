@@ -10,3 +10,5 @@ Not a footprint to be seen
 New Line
 >>>>>>> f0d6ebabe4ff66ac9ae324a6639e7a7157e58b8d
 Final version
+
+New non conflict part
